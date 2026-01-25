@@ -1,15 +1,13 @@
-![Repo-Image](https://massimo.gg/github-images/wpvu.webp)
-
 <div align="center">
 
 # Wordpress Verified User (WPVU)
 
-![License](https://img.shields.io/github/license/massimo-rnd/wordpress-verified-user)
-![Issues](https://img.shields.io/github/issues/massimo-rnd/wordpress-verified-user)
-![Forks](https://img.shields.io/github/forks/massimo-rnd/wordpress-verified-user)
-![Stars](https://img.shields.io/github/stars/massimo-rnd/wordpress-verified-user)
-![Last Commit](https://img.shields.io/github/last-commit/massimo-rnd/wordpress-verified-user)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/massimo-rnd/wordpress-verified-user?include_prereleases)
+![License](https://img.shields.io/github/license/chrstph-gg/wordpress-verified-user)
+![Issues](https://img.shields.io/github/issues/chrstph-gg/wordpress-verified-user)
+![Forks](https://img.shields.io/github/forks/chrstph-gg/wordpress-verified-user)
+![Stars](https://img.shields.io/github/stars/chrstph-gg/wordpress-verified-user)
+![Last Commit](https://img.shields.io/github/last-commit/chrstph-gg/wordpress-verified-user)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/chrstph-gg/wordpress-verified-user?include_prereleases)
 
 </div>
 
@@ -30,16 +28,23 @@ The checkmark is supplied to users belonging to a role you choose.
 
 After installing the Plugin you'll get a "Verified Checkmark" Page under "Settings" in your Wordpress admin dashboard. In there you can choose the role that should receive the checkmark.
 
-## 🚧 Roadmap
+![Settings Page](https://i.imgur.com/pV0ll6E.png)
 
-- [ ] Compatibility for more Themes
+Here you can also change which injection method should be used to ensure the plugin fully working for your theme.
 
-Check out the [open issues](https://github.com/massimo-rnd/wordpress-verified-user/issues) for more.
+Available methods are:
+- Unicode (max theme compatibility)
+- Inline SVG (no external library)
+- Font Awesome icon
+
+The checkmark could look like this:
+
+![Settings Page](https://i.imgur.com/rilUOx0.png)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/massimo-rnd/wordpress-verified-user/issues).
+Feel free to check the [issues page](https://github.com/chrstph-gg/wordpress-verified-user/issues).
 
 1. Fork the project.
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
@@ -55,15 +60,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📊 Repository Metrics
 
-![Repo Size](https://img.shields.io/github/repo-size/massimo-rnd/wordpress-verified-user)
-![Contributors](https://img.shields.io/github/contributors/massimo-rnd/wordpress-verified-user)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/massimo-rnd/wordpress-verified-user)
+![Repo Size](https://img.shields.io/github/repo-size/chrstph-gg/wordpress-verified-user)
+![Contributors](https://img.shields.io/github/contributors/chrstph-gg/wordpress-verified-user)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/chrstph-gg/wordpress-verified-user)
 
----
-
-### 📞 Contact
-
-For any inquiries, feel free to reach out:
-- email: [hi@massimo.gg](mailto:hi@massimo.gg)
-- X: [massimo-rnd](https://x.com/massimo-rnd)
-- [Discord](https://discord.gg/wmC5AA6c)
+## Other Wordpress Plugins built by me
+- [Get-IP](https://github.com/chrstph-gg/get-ip)
+- [getUserInfo](https://github.com/chrstph-gg/getUserInfo)
+- [Woocommerce ACO - Autocomplete Orders](https://github.com/chrstph-gg/woocommerce-aco)
+- [Woocommerce Custom Emails](https://github.com/chrstph-gg/woocommerce-custom-emails)
+- [Woocommerce License Keys](https://github.com/chrstph-gg/woocommerce-license-keys)
